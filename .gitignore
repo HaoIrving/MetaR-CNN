@@ -9,3 +9,5 @@ output*
 split*
 result*
 *.sh
+data/
+lib/
